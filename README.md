@@ -1,0 +1,3 @@
+# Haskell lesson repository
+
+memo
